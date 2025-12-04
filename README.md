@@ -22,4 +22,4 @@ Goal: Define the app’s purpose, features, and user experience.
 - **Simulation Engine**: Python (scikit-learn) or JavaScript (TensorFlow.js)
 - **Hosting**: Vercel or Netlify
 
-Python  
+Python for the simulation engine
