@@ -17,7 +17,7 @@ Goal: Define the app’s purpose, features, and user experience.
 ## Tech Stack
 
 - **Frontend**: React.js + Tailwind CSS
-- **Backend**: Node.js + Express
+- **Backend**: Node.js + TypeScript
 - **Database**: PostgreSQL or Firebase
 - **Simulation Engine**: Python (scikit-learn) or JavaScript (TensorFlow.js)
 - **Hosting**: Vercel or Netlify
