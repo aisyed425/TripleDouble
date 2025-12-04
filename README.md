@@ -25,14 +25,4 @@ Goal: Define the app’s purpose, features, and user experience.
 Python for the simulation engine
 
 
-Architecture diagram
 
-Data models for players/teams
-
-API routes
-
-Simulation logic (possession engine, rating system, win probability)
-
-Wireframe layout
-
-A development roadmap for MVP → full release
