@@ -5,5 +5,5 @@ cd Triple-Double
 npm install
 
 
-#Run Dev Srver
+#Run Dev Server
 npm run dev
