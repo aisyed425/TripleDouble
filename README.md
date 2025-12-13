@@ -23,5 +23,3 @@ Goal: Define the app’s purpose, features, and user experience.
 - **Hosting**: Vercel or Netlify
 
 Python for the simulation engine
-
-Kinda lost
