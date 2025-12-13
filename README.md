@@ -24,5 +24,4 @@ Goal: Define the app’s purpose, features, and user experience.
 
 Python for the simulation engine
 
-
-
+Kinda lost
