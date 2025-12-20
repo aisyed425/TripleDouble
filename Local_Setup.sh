@@ -1,4 +1,5 @@
-#Vite, React, and TypeScript o
+#Vite, React, and TypeScript
+#WIP
 
 npm create vite@latest playoff-legends -- --template react-ts
 cd Triple-Double
