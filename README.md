@@ -1,5 +1,5 @@
 # TripleDouble
- A web app that lets you build two starting lineups modern or all-time. Simulate a series between them.
+ A web app that lets you build two starting lineups modern or all-time and simulate a series between them.
 
 ===========================================================================
 ### Brainstorm
