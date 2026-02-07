@@ -10,7 +10,7 @@ Goal: Define the app’s purpose, features, and user experience.
 - Team builder (modern/all-time)
 - 7-game series simulator
 - Game breakdowns and visuals
-- Decide on platforms (web-first, mobile later?)
+- Decide on platforms (web-first, mobile later)
 - Sketch wireframes or use tools like Figma
 
 
